@@ -17,7 +17,7 @@
         },
         "CONFIGCADDY": {
             "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/mixool/xrayku/master/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/zyp997/xray-heroku/master/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "自定义网络地址读取配置运行xray，不熟悉xray配置的请勿修改",
