@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/mixool/xrayku/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/mixool/xrayku",
-    "repository": "https://github.com/mixool/xrayku",
+    "website": "https://github.com/zyp997/xray-heroku",
+    "repository": "https://github.com/zyp997/xray-heroku",
     "stack": "container"
 }
